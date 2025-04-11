@@ -17,7 +17,7 @@ For further details about the program, check the following [presentation](https:
 |  3   | **Machine Learning**  | [Week 3 Folder](https://github.com/AI-Forge-Program-Algeria/AI-Forge-Course-2025/tree/main/1_courses/2_advanced_track/Intro_ml) | [Intro to ML](https://github.com/AI-Forge-Program-Algeria/AI-Forge-Course-2025/blob/main/1_courses/2_advanced_track/Intro_ml/1_Introduction_to_ML.ipynb) |
 |  4   | **Computer Vision**                    | [Week 4 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week4) | [Week 4 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week4/Week4_Notebook.ipynb) |
 |  5   | **Generative AI**                      | [Week 5 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week5) | [Week 5 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week5/Week5_Notebook.ipynb) |
-|  6   | **Other AI Topics**                    | [Week 6 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week6) | [Week 6 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week6/Week6_Notebook.ipynb) |
+|  6   | **Poster Session**                    | [Week 6 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week6) | [Week 6 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week6/Week6_Notebook.ipynb) |
 |  7   | **Special Guests Sessions**            | [Week 7 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week7) | [Week 7 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week7/Week7_Notebook.ipynb) |
 
 ---
