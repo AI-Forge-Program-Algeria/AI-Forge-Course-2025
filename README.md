@@ -51,6 +51,6 @@ This project is licensed under the [MIT License](LICENSE.md).
 ---
 ## Acknowledgment
 
-Big thanks to [Deep Learning Indaba](https://github.com/deep-learning-indaba) and [Microsoft](https://github.com/microsoft/ai-for-beginners) for the amazing resources !
+Big thanks to [Deep Learning Indaba](https://github.com/deep-learning-indaba) for the amazing resources !
 
 
