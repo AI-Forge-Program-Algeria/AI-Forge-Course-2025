@@ -14,12 +14,13 @@ For further details about the program, check the following [presentation](https:
 |:----:|:---------------------------------------|:------------------------------------------------------------------:|:---------------------------------------------------------------------:|
 |  1   | **Array Algebra and NumPy**            | [Week 1 Folder](1_courses/2_advanced_track/1_array_algebra/) | [Array Algebra](1_courses/2_advanced_track/1_array_algebra/array_algebra.ipynb) |
 |  2   | **Probabilistic Thinking**      | [Week 2 Folder](https://github.com/AI-Forge-Program-Algeria/AI-Forge-Course-2025/tree/main/1_courses/2_advanced_track/2_probabilistic_thinking) | [Part 1](https://github.com/AI-Forge-Program-Algeria/AI-Forge-Course-2025/blob/main/1_courses/2_advanced_track/2_probabilistic_thinking/01_Probabilistic_Thinking_and_Programming_Part1.ipynb) - [Part 2](https://github.com/AI-Forge-Program-Algeria/AI-Forge-Course-2025/blob/main/1_courses/2_advanced_track/2_probabilistic_thinking/02_Probabilistic_Thinking_and_Programming_Part2.ipynb) |
-|  3   | **Machine Learning**  | [Week 3 Folder](https://github.com/AI-Forge-Program-Algeria/AI-Forge-Course-2025/tree/main/1_courses/2_advanced_track/Intro_ml) | [Intro to ML](https://github.com/AI-Forge-Program-Algeria/AI-Forge-Course-2025/blob/main/1_courses/2_advanced_track/Intro_ml/1_Introduction_to_ML.ipynb) |
-|  4   | **Computer Vision**                    | [Week 4 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week4) | [Week 4 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week4/Week4_Notebook.ipynb) |
-|  5   | **NLP**                      | [Week 5 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week5) | [Week 5 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week5/Week5_Notebook.ipynb) |
-|  6   | **Gen AI**                    | [Week 6 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week6) | [Week 6 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week6/Week6_Notebook.ipynb) |
-|  7   | **RL**            | [Week 7 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week7) | [Week 7 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week7/Week7_Notebook.ipynb) |
-|  8   | **SSL**            | [Week 8 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week7) | [Week 8 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week7/Week7_Notebook.ipynb) |
+|  3   | **Machine Learning**  | [Week 3 Folder](https://github.com/AI-Forge-Program-Algeria/AI-Forge-Course-2025/tree/main/1_courses/2_advanced_track/Intro_ml) | [Intro to ML](https://github.com/AI-Forge-Program-Algeria/AI-Forge-Course-2025/blob/main/1_courses/2_advanced_track/Intro_ml/1_Introduction_to_ML.ipynb) [ML Frameworks]() |
+|  4   | **Computer Vision**                    | [Week 4 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week4) | [CNNs]() [Transfer Learning]() [Auto Encoders]() [GANs]() [Object Detection]() [Segmentation]() |
+|  5   | **Natural Language Processing**                      | [Week 5 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week5) | [Week 5 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week5/Week5_Notebook.ipynb) |
+|  6   | **Generative AI**                    | [Week 6 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week6) | [LLMs]() [Diffusion Models]() |
+|  7   | **Reinforcement Learning**            | [Week 7 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week7) | [Week 7 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week7/Week7_Notebook.ipynb) |
+|  8   | **Semi-supervised Learning**            | [Week 8 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week7) | [Intro]() [Mean Teacher]() |
+|  9   | **Segment Anything Models**            | [Week 9 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week7) | [Week 9 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week7/Week7_Notebook.ipynb) |
 
 ---
 
