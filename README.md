@@ -16,9 +16,10 @@ For further details about the program, check the following [presentation](https:
 |  2   | **Probabilistic Thinking**      | [Week 2 Folder](https://github.com/AI-Forge-Program-Algeria/AI-Forge-Course-2025/tree/main/1_courses/2_advanced_track/2_probabilistic_thinking) | [Part 1](https://github.com/AI-Forge-Program-Algeria/AI-Forge-Course-2025/blob/main/1_courses/2_advanced_track/2_probabilistic_thinking/01_Probabilistic_Thinking_and_Programming_Part1.ipynb) - [Part 2](https://github.com/AI-Forge-Program-Algeria/AI-Forge-Course-2025/blob/main/1_courses/2_advanced_track/2_probabilistic_thinking/02_Probabilistic_Thinking_and_Programming_Part2.ipynb) |
 |  3   | **Machine Learning**  | [Week 3 Folder](https://github.com/AI-Forge-Program-Algeria/AI-Forge-Course-2025/tree/main/1_courses/2_advanced_track/Intro_ml) | [Intro to ML](https://github.com/AI-Forge-Program-Algeria/AI-Forge-Course-2025/blob/main/1_courses/2_advanced_track/Intro_ml/1_Introduction_to_ML.ipynb) |
 |  4   | **Computer Vision**                    | [Week 4 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week4) | [Week 4 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week4/Week4_Notebook.ipynb) |
-|  5   | **Generative AI**                      | [Week 5 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week5) | [Week 5 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week5/Week5_Notebook.ipynb) |
-|  6   | **Poster Session**                    | [Week 6 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week6) | [Week 6 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week6/Week6_Notebook.ipynb) |
-|  7   | **Special Guests Sessions**            | [Week 7 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week7) | [Week 7 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week7/Week7_Notebook.ipynb) |
+|  5   | **NLP**                      | [Week 5 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week5) | [Week 5 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week5/Week5_Notebook.ipynb) |
+|  6   | **Gen AI**                    | [Week 6 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week6) | [Week 6 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week6/Week6_Notebook.ipynb) |
+|  7   | **RL**            | [Week 7 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week7) | [Week 7 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week7/Week7_Notebook.ipynb) |
+|  8   | **SSL**            | [Week 8 Folder](https://github.com/your-repo/AI-Forge/tree/main/Week7) | [Week 8 Notebook](https://github.com/your-repo/AI-Forge/blob/main/Week7/Week7_Notebook.ipynb) |
 
 ---
 
@@ -35,6 +36,14 @@ For further details about the program, check the following [presentation](https:
 
 1. All assignments will be done in [Github Classrooms](https://classroom.github.com/classrooms)
 ![Github_classrooms_assignment_example](assets/github_classrooms.png)
+
+## Weekly Outline
+
+| Assignment No. | Title                              | Link to Repo                                    | Link to Notebook                                                     |
+|:----:|:---------------------------------------|:------------------------------------------------------------------:|:---------------------------------------------------------------------:|
+|  1   | **Climate Stakeholders Quest - Part 1**            | [Assignment Folder](https://github.com/AI-Forge-Program-Algeria/exploratory-data-analysis-assignment) | [Exploratory Data Analysis](https://github.com/AI-Forge-Program-Algeria/exploratory-data-analysis-assignment/blob/main/assignmnent_1_eda.ipynb) |
+|  1   | **Climate Stakeholders Quest - Part 2**            | [Assignment Folder]() | [Forecasting The Future]() |
+
 
 ---
 
