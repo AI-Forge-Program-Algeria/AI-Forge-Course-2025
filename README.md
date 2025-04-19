@@ -59,6 +59,23 @@ For further details about the program, check the following [presentation](https:
 |  Raoul de Charette   | **Tale Of Understanding Images**            | [Youtube](https://youtu.be/_Gmnd972YOM) | [Slides]() |
 |  Imane Hamzaoui   | **From Neuroscience to Artificial Intelligence**            | [Youtube]() | [Slides]() |
 |  Assala Benmalek   | **The Tale of LLMs**            | [Youtube]() | [Slides]() |
+|  Alaa Dania Adimi   | **Introduction to NLP**            | [Youtube]() | [Slides]() |
+|  Nour Islam Mokhtari   | **AI For Healthcare Discussion**            | [Youtube]() | [Slides]() |
+|  Redouane Lguensat   | **How AI is Revolutionizing Weather Forecasting**            | [Youtube]() | [Slides]() |
+|  Omayma Mahjoub   | **Hands-On RL: Creating 2048 for RL Agents**            | [Youtube]() | [Slides]() |
+|  Yazid Anis Ikrouberkane   | **Hands-on Data Collection From Sensors**            | [Youtube]() | [Slides]() |
+<!--
+
+|  Girmaw Abebe Tadesse   | **AI Applications for African Challenges**            | [Youtube]() | [Slides]() |
+|  Dr Khalil Mrini   | **Introduction to Large Language Models**            | [Youtube]() | [Slides]() |
+|  Hachem Betrouni   | **AI Product Deployment**            | [Youtube]() | [Slides]() |
+|  Khayra Lakhdari   | **Introduction to Multimodal AI**            | [Youtube]() | [Slides]() |
+|  Zoheir Bessai   | **Introduction to SearcH Algorithms**            | [Youtube]() | [Slides]() |
+|  Nouhaila Innan - Walid Al maouaki - Yousra Farhani   | **AI and Quantum Computing Panel Discussion**            | [Youtube]() | [Slides]() |
+
+--!>
+
+
 
 
 
