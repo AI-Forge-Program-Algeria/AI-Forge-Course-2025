@@ -52,12 +52,12 @@ For further details about the program, check the following [presentation](https:
 
 | Guest | Title                              | Link to Webinar                                    | Link to Resources                                                     |
 |:----:|:---------------------------------------|:------------------------------------------------------------------:|:---------------------------------------------------------------------:|
-|  Nazim Bendib   | **Introduction to Reinforcement Learning**            | [Youtube]() | [Slides](https://www.youtube.com/watch?v=9XJZ8751q5k) |
-|  Afaf Taik   | **A "short" Introduction to Fairness in Machine Learning**            | [Youtube](https://youtu.be/Ah3jMdlb6LM) | [Slides]() |
-|  Narimane Hennouni   | **AI Agents: The New Era of Artificial Intellligence**            | [Youtube](https://youtu.be/haeMu5dxCBM) | [Slides]() |
-|  Yacine Mahdid   | **How AI can Drive Sustainability in Aerospace Supply Chain**            | [Youtube](https://youtu.be/Q6sXM2mkEM0) | [Slides]() |
-|  Raoul de Charette   | **Tale Of Understanding Images**            | [Youtube](https://youtu.be/_Gmnd972YOM) | [Slides]() |
-|  Imane Hamzaoui   | **From Neuroscience to Artificial Intelligence**            | [Youtube]() | [Slides]() |
+|  Nazim Bendib   | **Introduction to Reinforcement Learning**            | [Youtube](https://www.youtube.com/watch?v=9XJZ8751q5k) | [Slides](https://github.com/AI-Forge-Program-Algeria/AI-Forge-Course-2025/blob/main/Webinars/Introduction%20to%20RL%20-%20Nazim%20Bendib.pdf) | 
+|  Afaf Taik   | **A "short" Introduction to Fairness in Machine Learning**            | [Youtube](https://youtu.be/Ah3jMdlb6LM) |  |
+|  Narimane Hennouni   | **AI Agents: The New Era of Artificial Intellligence**            | [Youtube](https://youtu.be/haeMu5dxCBM) | [Slides](https://github.com/AI-Forge-Program-Algeria/AI-Forge-Course-2025/blob/main/Webinars/AI%20Agents%20%20The%20New%20Era%20of%20AI.pptx) |
+|  Yacine Mahdid   | **How AI can Drive Sustainability in Aerospace Supply Chain**            | [Youtube](https://youtu.be/Q6sXM2mkEM0) |  |
+|  Raoul de Charette   | **Tale Of Understanding Images**            | [Youtube](https://youtu.be/_Gmnd972YOM) | [Slides](https://github.com/AI-Forge-Program-Algeria/AI-Forge-Course-2025/blob/main/Webinars/TaleOfUnderstandingImages%20-%20Raoul%20de%20Charette.pdf) |
+|  Imane Hamzaoui   | **From Neuroscience to Artificial Intelligence**            | [Youtube]() | [Slides](https://github.com/AI-Forge-Program-Algeria/AI-Forge-Course-2025/blob/main/Webinars/WTM%20-%20From%20neuro%20to%20AI%20-%20Imane%20Hamzaoui.pdf) |
 |  Assala Benmalek   | **The Tale of LLMs**            | [Youtube]() | [Slides]() |
 |  Alaa Dania Adimi   | **Introduction to NLP**            | [Youtube]() | [Slides]() |
 |  Nour Islam Mokhtari   | **AI For Healthcare Discussion**            | [Youtube]() | [Slides]() |
