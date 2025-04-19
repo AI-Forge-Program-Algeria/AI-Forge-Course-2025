@@ -86,6 +86,6 @@ This project is licensed under the [MIT License](LICENSE.md).
 ---
 ## Acknowledgment
 
-Big thanks to [Deep Learning Indaba](https://github.com/deep-learning-indaba) for the amazing resources !
+Big thanks to [Deep Learning Indaba](https://github.com/deep-learning-indaba) for the amazing resources and Huge thanks to all the guest speakers who made this program unique !
 
 
