@@ -38,12 +38,29 @@ For further details about the program, check the following [presentation](https:
 1. All assignments will be done in [Github Classrooms](https://classroom.github.com/classrooms)
 ![Github_classrooms_assignment_example](assets/github_classrooms.png)
 
-## Weekly Outline
+## Outline
 
 | Assignment No. | Title                              | Link to Repo                                    | Link to Notebook                                                     |
 |:----:|:---------------------------------------|:------------------------------------------------------------------:|:---------------------------------------------------------------------:|
 |  1   | **Climate Stakeholders Quest - Part 1**            | [Assignment Folder](https://github.com/AI-Forge-Program-Algeria/exploratory-data-analysis-assignment) | [Exploratory Data Analysis](https://github.com/AI-Forge-Program-Algeria/exploratory-data-analysis-assignment/blob/main/assignmnent_1_eda.ipynb) |
 |  1   | **Climate Stakeholders Quest - Part 2**            | [Assignment Folder]() | [Forecasting The Future]() |
+
+
+---
+
+## AI Forge Special Guest Sessions
+
+| Guest | Title                              | Link to Webinar                                    | Link to Resources                                                     |
+|:----:|:---------------------------------------|:------------------------------------------------------------------:|:---------------------------------------------------------------------:|
+|  Nazim Bendib   | **Introduction to Reinforcement Learning**            | [Youtube]() | [Slides](https://www.youtube.com/watch?v=9XJZ8751q5k) |
+|  Afaf Taik   | **A "short" Introduction to Fairness in Machine Learning**            | [Youtube](https://youtu.be/Ah3jMdlb6LM) | [Slides]() |
+|  Narimane Hennouni   | **AI Agents: The New Era of Artificial Intellligence**            | [Youtube](https://youtu.be/haeMu5dxCBM) | [Slides]() |
+|  Yacine Mahdid   | **How AI can Drive Sustainability in Aerospace Supply Chain**            | [Youtube](https://youtu.be/Q6sXM2mkEM0) | [Slides]() |
+|  Raoul de Charette   | **Tale Of Understanding Images**            | [Youtube](https://youtu.be/_Gmnd972YOM) | [Slides]() |
+|  Imane Hamzaoui   | **From Neuroscience to Artificial Intelligence**            | [Youtube]() | [Slides]() |
+|  Assala Benmalek   | **The Tale of LLMs**            | [Youtube]() | [Slides]() |
+
+
 
 
 ---
